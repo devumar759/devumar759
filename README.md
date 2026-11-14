@@ -1,201 +1,253 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Umar%20Draz&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%7C%20Team%20Lead&descSize=20&descAlignY=58" alt="Umar Draz banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=140&section=header&text=UMAR%20DRAZ&fontSize=54&fontColor=58a6ff&fontAlign=50&fontAlignY=50&stroke=58a6ff&strokeWidth=1" width="100%" alt="Umar Draz"/>
 
-<a href="https://github.com/bhaiumar759">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=MERN+Stack+Specialist;Laravel+Expert;WordPress+Theme+%26+Plugin+Developer;Transforming+complex+ideas+into+scalable+web+solutions" alt="Typing animation" />
-</a>
+### Full-Stack Developer · MERN · Laravel · WordPress
+
+<sub>Senior Developer & Team Lead &nbsp;•&nbsp; 4+ years &nbsp;•&nbsp; Faisalabad, Pakistan 🇵🇰</sub>
 
 <br/>
 
-**🚀 Full Stack Developer &nbsp;|&nbsp; MERN Stack Specialist &nbsp;|&nbsp; Laravel & WordPress Expert**
+<a href="mailto:devumar759@gmail.com"><img src="https://img.shields.io/badge/Email-devumar759@gmail.com-58a6ff?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email"/></a>
+<a href="https://github.com/devumar759"><img src="https://img.shields.io/badge/GitHub-devumar759-58a6ff?style=flat-square&logo=github&logoColor=white&labelColor=161b22" alt="GitHub"/></a>
+<a href="https://devumar.com/"><img src="https://img.shields.io/badge/Website-devumar.com-58a6ff?style=flat-square&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/umar-draz/"><img src="https://img.shields.io/badge/LinkedIn-umar--draz-58a6ff?style=flat-square&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/Freelance-Available-3fb950?style=flat-square&labelColor=161b22" alt="Available"/>
+
+</div>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-bhaiumar759%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaiumar759@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-bhaiumar759-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaiumar759)
-[![Location](https://img.shields.io/badge/Location-Faisalabad%2C%20Pakistan-2ea44f?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
+## ✦ About
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhaiumar759&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-blueviolet?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-50%2B-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Open%20for%20Work-brightgreen?style=flat-square)
+Hi, I'm Umar, a full-stack developer and team lead. I've been building web apps for over 4 years and have worked on 70+ projects, mostly e-commerce stores, SaaS products and business systems.
 
-</div>
+Most of my work is in the MERN stack, Laravel and WordPress. I'm comfortable on both sides of a project: setting up the database and API, then building the interface on top of it. I've connected payment gateways like Stripe and PayPal, and I write custom WordPress themes and plugins.
 
----
+I also lead a team of developers. I plan sprints, review code, help people when they get stuck, and write documentation so the next person isn't lost. Talking to clients and turning what they want into a clear plan is a part of the job I really enjoy.
 
-## 🚀 About Me
+Outside of the day-to-day, I like solving hard problems, helping other developers grow, and keeping up with new technology. I've worked at Gomal Themes and Next Level Software, and I studied at NUML (National University of Modern Languages) and Punjab Group of Colleges.
 
-> 💡 *Solving complex problems with elegant code, mentoring development teams, and staying ahead of technology trends.*
+<br/>
 
-I'm a Full Stack Developer with **4+ years of experience** building high-performance web applications. I specialize in the **MERN stack**, **Laravel**, and **WordPress**, delivering scalable solutions that drive business growth. From architecting robust backends to crafting intuitive user interfaces, I bring technical excellence and leadership to every project.
+## ✦ Tech Stack
 
----
+**Languages & Markup**
 
-## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,py,cpp&theme=dark" alt="Languages"/>
 
-<div align="center">
+**Frontend**
 
-### 🧠 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,angular,tailwind,bootstrap,sass,jquery&theme=dark" alt="Frontend"/>
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Backend & CMS**
 
-### ⚙️ Backend & CMS
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,laravel,wordpress&theme=dark" alt="Backend"/>
 
-### 🗄️ Database & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Databases**
 
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark" alt="Databases"/>
 
----
+**DevOps & Cloud**
 
-## 🎯 Core Expertise
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,linux,vercel,netlify&theme=dark" alt="DevOps and cloud"/>
 
-<table align="center">
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,bitbucket,postman,figma,npm,yarn,vite,webpack,jest,notion&theme=dark" alt="Tools"/>
+
+<br/>
+
+## ✦ What I Do
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🎨 Frontend Development
-- React.js with Redux/Context API & modern Hooks
-- Vue.js and Angular for enterprise applications
-- Responsive design with Tailwind CSS & Bootstrap
-- Performance optimization & accessibility compliance
-- Cross-browser compatibility & mobile-first approach
+**Frontend**<br/>
+I build interfaces in React (Redux, Context, Hooks), Vue and Angular, styled with Tailwind or Bootstrap. I want pages to load fast, work well on phones and be easy for everyone to use.
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ⚙️ Backend Development
-- RESTful & GraphQL API design with Node.js/Express
-- MVC architecture using Laravel
-- **Custom WordPress themes & plugins**
-- Database design and query optimization
-- Secure authentication & authorization systems
-- Payment gateway integrations (Stripe, PayPal)
+**Backend**<br/>
+APIs in Node and Express (REST or GraphQL), Laravel apps, custom WordPress themes and plugins, login and permissions, and Stripe and PayPal payments.
+
+</td>
+<td width="33%" valign="top">
+
+**Architecture & DevOps**<br/>
+Microservices, Docker, CI/CD, AWS deployments, database design, and keeping an eye on performance once things are live.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="3" valign="top">
 
-### 🏗️ Architecture & DevOps
-- Microservices & event-driven architecture
-- Docker containerization & CI/CD pipelines
-- AWS deployment & cloud infrastructure
-- Code review & quality assurance
-- Performance monitoring & optimization
-
-</td>
-<td width="50%" valign="top">
-
-### 👥 Leadership & Process
-- Agile/Scrum methodology implementation
-- Team mentoring & code review
-- Technical documentation & knowledge transfer
-- Client communication & requirement analysis
-- Project planning & sprint management
+**Leadership:** running Agile/Scrum sprints, reviewing code, mentoring developers, writing documentation and working out requirements with clients.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🏆 Key Achievements
+## ✦ By the Numbers
 
 <div align="center">
 
-| 📦 Projects | ⚡ API Traffic | 👥 Team Size | 💳 Payments | ✅ Test Coverage |
-|:---:|:---:|:---:|:---:|:---:|
-| **50+** delivered | **10k+** requests/day | **5+** developers led | **$100k+** monthly processed | **90%+** on critical apps |
+| **70+** | **10k+** | **99.9%** | **$100k+** | **90%+** | **5+** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| projects delivered | API requests / day | uptime | monthly payments processed | test coverage on critical apps | developers led |
 
 </div>
-
-- ✅ **50+ Successful Projects** delivered for clients across e-commerce, SaaS, and enterprise domains
-- ✅ **High-Performance APIs** handling 10k+ requests/day with 99.9% uptime
-- ✅ **Team Leadership** guiding cross-functional teams of 5+ developers
-- ✅ **E-commerce Solutions** with seamless payment integrations processing $100k+ monthly transactions
-- ✅ **Code Quality** maintaining 90%+ test coverage on critical applications
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaiumar759&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaiumar759&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaiumar759&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌱 Currently
-
-- 🔭 Building enterprise-grade **MERN stack** applications with advanced features
-- ☁️ Exploring serverless architectures and cloud-native technologies
-- 🤝 Contributing to open-source projects and sharing knowledge with the developer community
-- 👨‍💻 Leading development teams to create innovative, scalable solutions
-
----
-
-## 💼 Services I Offer
+## ✦ GitHub Activity
 
 <div align="center">
 
-| 🚀 Full Stack Development | 🎨 Custom Web Applications | ⚙️ API Development & Integration |
-|:---:|:---:|:---:|
-| **🛒 E-commerce Solutions** | **🌐 WordPress Themes & Plugins** | **📱 Progressive Web Apps** |
-| **👥 Technical Consulting & Code Review** | **🧩 Laravel Applications** | **☁️ AWS & Docker Deployment** |
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devumar759&theme=github_dark" alt="GitHub stats"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devumar759&theme=github_dark" alt="Most used languages"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devumar759&theme=github_dark" alt="Repos per language"/>
+
+<img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=devumar759&theme=github-dark-blue&hide_border=true&background=0d1117" alt="Streak"/>
+
+<img width="85%" src="https://ghchart.rshah.org/58a6ff/devumar759" alt="Contribution graph"/>
 
 </div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm available for **freelance projects**, **contract work**, and **technical consulting**.
-
-**Looking to build something amazing? Let's talk!**
-
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:bhaiumar759@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/bhaiumar759)
 
 <br/>
 
-*"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+## ✦ Currently
 
-⭐️ **If you find my work valuable, consider starring my repositories!**
+- Building MERN stack apps for larger business projects
+- Learning more about serverless and cloud tools
+- Contributing to open source and sharing what I learn
+- Leading a team of developers
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<br/>
+
+## ✦ Services
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<img src="https://api.iconify.design/lucide/code.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Full-Stack Development</b><br/>
+Complete web apps built with MERN, Laravel or Next.js.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://api.iconify.design/lucide/globe.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>WordPress Development</b><br/>
+Custom themes and plugins, WooCommerce stores, and speeding up slow sites.
+
+</td>
+<td width="33%" valign="top">
+
+<img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Laravel Applications</b><br/>
+Laravel apps with admin panels, dashboards and CRMs.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/plug.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>API Development & Integration</b><br/>
+REST and GraphQL APIs, and connecting your app to third-party services.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>E-commerce Solutions</b><br/>
+Online stores with safe checkout and Stripe or PayPal payments.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/cloud.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>SaaS Platform Development</b><br/>
+Login, subscriptions, billing and multi-user setups for SaaS products.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/monitor.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Frontend Development</b><br/>
+Responsive websites and apps in React, Next.js, Vue or Angular.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Progressive Web Apps</b><br/>
+Mobile-friendly web apps that can be installed and work offline.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/database.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Database Design & Optimization</b><br/>
+Designing MongoDB, MySQL and PostgreSQL databases and speeding up slow queries.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/container.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>DevOps & Deployment</b><br/>
+Deploying to AWS with Docker and setting up CI/CD.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/shield-check.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Performance & Security Audits</b><br/>
+Finding what is slow or unsafe in an existing app and fixing it.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Maintenance & Migration</b><br/>
+Bug fixes, upgrades, moving sites to a new host, and ongoing support.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/lightbulb.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Technical Consulting & Code Review</b><br/>
+Advice on architecture and honest code reviews.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/users.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Team Leadership & Mentoring</b><br/>
+Running sprints and helping developers get better.
+
+</td>
+<td valign="top">
+
+<img src="https://api.iconify.design/lucide/file-text.svg?color=%2358a6ff&width=20&height=20" width="20" height="20" align="top" alt=""/>&nbsp; <b>Technical Documentation</b><br/>
+Clear docs so your project is easy to pick up later.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ Let's Work Together
+
+<div align="center">
+
+I'm open to **freelance projects**, **contract work** and **consulting**. If you have something in mind, send me a message.
+
+<a href="mailto:devumar759@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20touch-58a6ff?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22" alt="Get in touch"/></a>
+<a href="https://devumar.com/"><img src="https://img.shields.io/badge/Website-devumar.com-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=161b22" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/umar-draz/"><img src="https://img.shields.io/badge/LinkedIn-Connect-58a6ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22" alt="LinkedIn"/></a>
+
+<sub><i>"Clean code always looks like it was written by someone who cares."</i> — Robert C. Martin</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=60&section=footer" width="100%" alt=""/>
 
 </div>
